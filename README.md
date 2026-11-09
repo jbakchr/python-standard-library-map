@@ -26,6 +26,14 @@ Find it under the same section where it appears in the official Python Standard 
 
 ---
 
+### File and Directory Access
+
+| Module       | What is it used for?    |
+|--------------|------------------------------------------|
+| [`pathlib`](./modules/files_and_directory_access/pathlib.md) | Run shell commands and external programs |
+
+---
+
 ### Concurrent Execution
 
 | Module       | What is it used for?    |

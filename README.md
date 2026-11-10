@@ -30,7 +30,19 @@ Find it under the same section where it appears in the official Python Standard 
 
 | Module       | What is it used for?    |
 |--------------|------------------------------------------|
-| [`pathlib`](./modules/files_and_directory_access/pathlib.md) | Run shell commands and external programs |
+| [`pathlib`](./modules/files_and_directory_access/pathlib.md) | Read, write, find and organize files and directories |
+| [`filecmp`](./modules/files_and_directory_access/filecmp.md) | Compare files and directories |
+| [`tempfile`](./modules/files_and_directory_access/tempfile.md) | Read, write, find and organize files and directories |
+| [`glob`](./modules/files_and_directory_access/pathlib.md) | Find files using wildcard patterns |
+| [`shutil`](./modules/files_and_directory_access/shutil.md) | Copy, move, archive and delete files and directories |
+
+---
+
+### File Formats
+
+| Module       | What is it used for?    |
+|--------------|------------------------------------------|
+| [`csv`](./modules/file_formats/csv.md) | Run shell commands and external programs |
 
 ---
 
@@ -38,7 +50,15 @@ Find it under the same section where it appears in the official Python Standard 
 
 | Module       | What is it used for?    |
 |--------------|------------------------------------------|
-| [`subprocess`](./modules/concurrent_execution/subprocess.md) | Run shell commands and external programs |
+| [`subprocess`](./modules/internet_data_handling/json.md) | Run shell commands and external programs |
+
+---
+
+### Internet Data Handling
+
+| Module       | What is it used for?    |
+|--------------|------------------------------------------|
+| [`json`](./modules/concurrent_execution/subprocess.md) | Read and write JSON data |
 
 ---
 

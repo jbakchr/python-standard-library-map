@@ -32,7 +32,7 @@ Find it under the same section where it appears in the official Python Standard 
 |--------------|------------------------------------------|
 | [`pathlib`](./modules/files_and_directory_access/pathlib.md) | Read, write, find and organize files and directories |
 | [`filecmp`](./modules/files_and_directory_access/filecmp.md) | Compare files and directories |
-| [`tempfile`](./modules/files_and_directory_access/tempfile.md) | Read, write, find and organize files and directories |
+| [`tempfile`](./modules/files_and_directory_access/tempfile.md) | Create temporary files and directories |
 | [`glob`](./modules/files_and_directory_access/pathlib.md) | Find files using wildcard patterns |
 | [`shutil`](./modules/files_and_directory_access/shutil.md) | Copy, move, archive and delete files and directories |
 
@@ -42,13 +42,13 @@ Find it under the same section where it appears in the official Python Standard 
 
 | Module       | What is it used for?    |
 |--------------|------------------------------------------|
-| [`csv`](./modules/file_formats/csv.md) | Run shell commands and external programs |
+| [`csv`](./modules/file_formats/csv.md) | Read and write CSV files |
 
 ---
 
 ### Concurrent Execution
 
-| Module       | What is it used for?    |
+| Module       | What is it used for?´    |
 |--------------|------------------------------------------|
 | [`subprocess`](./modules/internet_data_handling/json.md) | Run shell commands and external programs |
 
